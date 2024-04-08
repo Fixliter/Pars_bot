@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f36d6d8-df0b-451c-866c-98e4332409b7" name="Changes" comment="edited README (+task webhook)">
+    <list default="true" id="0f36d6d8-df0b-451c-866c-98e4332409b7" name="Changes" comment="edited requirements.txt">
       <change afterPath="$PROJECT_DIR$/tests_bots/main_by_telegram_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712538070560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edited requirements.txt">
+      <option name="closed" value="true" />
+      <created>1712538722529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712538722529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -200,6 +209,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Send base of the tg_bot" />
     <MESSAGE value="edited README (+task webhook)" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited README (+task webhook)" />
+    <MESSAGE value="edited requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited requirements.txt" />
   </component>
 </project>
