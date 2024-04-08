@@ -4,45 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f36d6d8-df0b-451c-866c-98e4332409b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/POParsim.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TG_Bot_IOgram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config_data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config_data/bot_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/orm_query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filters/is_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/other_handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/user_handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/just_for_fun/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/just_for_fun/api_answers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards/set_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexicon/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lexicon/lexicon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging_conf/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging_conf/log_filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging_conf/logging_config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging_conf/logging_settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middlewares/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middlewares/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret.py" afterDir="false" />
+    <list default="true" id="0f36d6d8-df0b-451c-866c-98e4332409b7" name="Changes" comment="Send base of the tg_bot">
       <change afterPath="$PROJECT_DIR$/tests_bots/main_by_telegram_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,10 +62,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/m41102/PycharmProjects/POParsim",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\m41102\PycharmProjects\POParsim" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\m41102\PycharmProjects\POParsim\tests_bots" />
       <recent name="C:\Users\m41102\PycharmProjects\POParsim\config_data" />
@@ -197,6 +166,15 @@
       <option name="presentableId" value="Default" />
       <updated>1710367296434</updated>
     </task>
+    <task id="LOCAL-00001" summary="Send base of the tg_bot">
+      <option name="closed" value="true" />
+      <created>1712534003910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712534003910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -212,5 +190,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Send base of the tg_bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Send base of the tg_bot" />
   </component>
 </project>
