@@ -9,7 +9,7 @@ from aiogram.types import BotCommand
 from keyboards.set_menu import set_main_menu
 import datetime
 import logging.config
-import yaml
+# import yaml
 from logging_conf.logging_settings import logging_config
 
 # Для загрузки конфигурации логгирования из файла .yaml: (Требуется починить!!!)
