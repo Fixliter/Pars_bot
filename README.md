@@ -65,7 +65,7 @@ ___
 - Clone or download the repository.
 
     ```
-    git clone git@github.com: link
+    git clone git@github.com: https://github.com/Fixliter/Pars_bot.git
     ```
 
 - [Create virtual environment and activate it](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment) and [install dependencies](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#using-requirements-files).
@@ -73,6 +73,7 @@ ___
     ```
     python -m venv env
     source env/bin/activate
+    BOT_TOKEN=
     pip install --upgrade pip && pip install -r requirements.txt
     ```
 - Run the bot.
